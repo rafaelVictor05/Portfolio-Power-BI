@@ -73,4 +73,4 @@ Agradeço pela sua atenção! Fique à vontade para entrar em contato.
 * **LinkedIn:** `linkedin.com/in/rafaelvictorr`
 
 * **Email:** `rafaelredoval8@gmail.com`
-```eof
+```
